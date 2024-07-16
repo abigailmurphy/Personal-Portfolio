@@ -1,7 +1,8 @@
 # Personal-Portfolio
-My name is Abbie Murphy, I am completing my B.S. in Computer Science at Brandeis University, class of 2024. I have compiled some of my projects into one place for easy access. These projects are projects that I have persued to either practice skills from class, expand on those skills, or simply explore new areas of computer science. 
+My name is Abbie Murphy I am a five-year B/MS student at Brandeis University, entering year five. Each link will take you to a project repository that contains photos and walk-throughs of each project in the README. These projects are projects that I have persued to either practice skills from class, expand on those skills, or simply explore new areas of computer science. 
 
 ## AdventureAdvisor
+[adventure-advisor](https://github.com/abigailmurphy/adventure-advisor)
 
 A mobile application built using react native/ javascript. AdventureAdvisor will both plan and document your trip, using a chatGPT API key to build an itinerary based on selected parameters. The user then has the option to save their trip using async local storage on their device and add pictures and journal entries to their trips. The app also uses location to 'quick plan' the rest of the users day at a particular time and location at the touch of a button. 
 
